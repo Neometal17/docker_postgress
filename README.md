@@ -13,7 +13,7 @@ Se encuentran en el .env para usuarios y password de **PG_ADMIN** y el **BD POST
 
 ## Gestion Web
 
-### Web PGADIN 
+### Web Administrativa PGADMIN 
 La web de administracion se ingresar por la siguiente URL: **http://localhost:5050/**
 
 **Nota**: Si usa windows docker-desktop debe estar iniciardo
